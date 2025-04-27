@@ -46,8 +46,8 @@ Scheme
 		"G_CustomBuildingStatusBg" 		"0 0 0 100" // Custom building status bg color
 		"G_TargetHealthValue" 			"255 255 255 255" // Target ID health value color
 		"G_TargetHealthValueShadow" 	"0 0 0 220" // Target ID health value shadow color
-		"G_Killfeed_Base"			"14 4 40 219" // Killfeed Base color
-		"G_Killfeed_Local"			"255 255 255 209" // Killfeed Local color
+		"G_Killfeed_Base"			"14 4 40 189" // Killfeed Base color
+		"G_Killfeed_Local"			"255 255 255 196" // Killfeed Local color
 		"G_CenteredMetalBg"			"50 50 50 120" // Centered metal background color
 		"G_CenteredUberchargeBg"	 "0 0 0 100" // Centered ubercharge meter background color
 		"G_BrownBg"					"46 43 42 220"
@@ -66,8 +66,8 @@ Scheme
 		"G_DimmFooterText"			"59 231 233 120" // Dimm Footer text color
 		"G_OuterBorder"				"0 0 0 36" // Outer border color
 		"G_InnerBorder"				"0 0 0 48" // Inner border color
-		"G_KillfeedBlue"			"5 170 202 255" // Killfeed blue text
-		"G_KillfeedRed"				"251 70 70 255" // Killfeed red text
+		"G_KillfeedBlue"			"0 167 235 255" // Killfeed blue text
+		"G_KillfeedRed"				"245 94 94 255" // Killfeed red text
 		"G_KillfeedIcon"			"238 224 224 255" // Killfeed icon color
 		"G_CustomHealthValue"		"120 120 120 255"
 		"G_MainMenuOverlay"			"0 0 0 0" // Main Menu overlay color
