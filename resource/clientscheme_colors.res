@@ -66,7 +66,7 @@ Scheme
 		"G_DimmFooterText"			"59 231 233 120" // Dimm Footer text color
 		"G_OuterBorder"				"0 0 0 36" // Outer border color
 		"G_InnerBorder"				"0 0 0 48" // Inner border color
-		"G_KillfeedBlue"			"0 167 235 255" // Killfeed blue text
+		"G_KillfeedBlue"			"0 145 204 255" // Killfeed blue text
 		"G_KillfeedRed"				"245 94 94 255" // Killfeed red text
 		"G_KillfeedIcon"			"238 224 224 255" // Killfeed icon color
 		"G_CustomHealthValue"		"120 120 120 255"
